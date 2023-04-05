@@ -1,0 +1,10 @@
+  .logo img {
+      max-height: 55px;
+      margin-right: 6px;
+  }
+  
+  .card-header {
+      background: rgb(39, 126, 241);
+      background: linear-gradient(0deg, rgba(39, 126, 241, 1) 0%, rgba(0, 212, 255, 1) 100%);
+      margin-bottom: 200px;
+  }
